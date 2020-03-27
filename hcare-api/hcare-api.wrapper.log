@@ -1,0 +1,300 @@
+2019-11-24 01:07:35,214 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 01:07:35,298 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 01:07:35,303 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 01:07:35,591 INFO  - Started process 791592
+2019-11-24 01:07:35,676 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-24 14:37:29,165 INFO  - Stopping hcare-api
+2019-11-24 14:37:29,166 DEBUG - ProcessKill 791592
+2019-11-24 14:37:29,546 INFO  - Found child process: 792056 Name: conhost.exe
+2019-11-24 14:37:29,915 INFO  - Stopping process 792056
+2019-11-24 14:37:30,104 INFO  - Send SIGINT 792056
+2019-11-24 14:37:30,106 WARN  - SIGINT to 792056 failed - Killing as fallback
+2019-11-24 14:37:30,107 INFO  - Stopping process 791592
+2019-11-24 14:37:30,267 INFO  - Send SIGINT 791592
+2019-11-24 14:37:30,268 WARN  - SIGINT to 791592 failed - Killing as fallback
+2019-11-24 14:37:30,271 INFO  - Finished hcare-api
+2019-11-24 14:37:30,272 DEBUG - Completed. Exit code is 0
+2019-11-24 14:37:53,560 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 14:37:53,582 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 14:37:53,585 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 14:37:53,599 INFO  - Started process 792636
+2019-11-24 14:37:53,674 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-24 15:48:08,428 INFO  - Stopping hcare-api
+2019-11-24 15:48:08,429 DEBUG - ProcessKill 792636
+2019-11-24 15:48:08,816 INFO  - Found child process: 927612 Name: conhost.exe
+2019-11-24 15:48:09,226 INFO  - Stopping process 927612
+2019-11-24 15:48:09,407 INFO  - Send SIGINT 927612
+2019-11-24 15:48:09,408 WARN  - SIGINT to 927612 failed - Killing as fallback
+2019-11-24 15:48:09,410 INFO  - Stopping process 792636
+2019-11-24 15:48:09,585 INFO  - Send SIGINT 792636
+2019-11-24 15:48:09,586 WARN  - SIGINT to 792636 failed - Killing as fallback
+2019-11-24 15:48:09,589 INFO  - Finished hcare-api
+2019-11-24 15:48:09,590 DEBUG - Completed. Exit code is 0
+2019-11-24 15:48:41,515 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 15:48:41,543 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 15:48:41,546 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 15:48:41,566 INFO  - Started process 950012
+2019-11-24 15:48:41,645 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-24 16:12:18,547 INFO  - Stopping hcare-api
+2019-11-24 16:12:18,548 DEBUG - ProcessKill 950012
+2019-11-24 16:12:18,944 INFO  - Found child process: 950136 Name: conhost.exe
+2019-11-24 16:12:19,338 INFO  - Stopping process 950136
+2019-11-24 16:12:19,520 INFO  - Send SIGINT 950136
+2019-11-24 16:12:19,522 WARN  - SIGINT to 950136 failed - Killing as fallback
+2019-11-24 16:12:19,523 INFO  - Stopping process 950012
+2019-11-24 16:12:19,770 INFO  - Send SIGINT 950012
+2019-11-24 16:12:19,771 WARN  - SIGINT to 950012 failed - Killing as fallback
+2019-11-24 16:12:19,774 INFO  - Finished hcare-api
+2019-11-24 16:12:19,776 DEBUG - Completed. Exit code is 0
+2019-11-24 16:12:44,244 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 16:12:44,268 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 16:12:44,272 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 16:12:44,288 INFO  - Started process 949048
+2019-11-24 16:12:44,366 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-24 16:25:32,947 INFO  - Stopping hcare-api
+2019-11-24 16:25:32,948 DEBUG - ProcessKill 949048
+2019-11-24 16:25:33,334 INFO  - Found child process: 950220 Name: conhost.exe
+2019-11-24 16:25:33,686 INFO  - Stopping process 950220
+2019-11-24 16:25:33,856 INFO  - Send SIGINT 950220
+2019-11-24 16:25:33,857 WARN  - SIGINT to 950220 failed - Killing as fallback
+2019-11-24 16:25:33,859 INFO  - Stopping process 949048
+2019-11-24 16:25:34,049 INFO  - Send SIGINT 949048
+2019-11-24 16:25:34,049 WARN  - SIGINT to 949048 failed - Killing as fallback
+2019-11-24 16:25:34,053 INFO  - Finished hcare-api
+2019-11-24 16:25:34,054 DEBUG - Completed. Exit code is 0
+2019-11-24 16:25:49,297 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 16:25:49,317 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 16:25:49,319 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 16:25:49,334 INFO  - Started process 951376
+2019-11-24 16:25:49,411 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-24 17:42:34,962 INFO  - Stopping hcare-api
+2019-11-24 17:42:34,962 DEBUG - ProcessKill 951376
+2019-11-24 17:42:35,401 INFO  - Found child process: 952048 Name: conhost.exe
+2019-11-24 17:42:35,766 INFO  - Stopping process 952048
+2019-11-24 17:42:35,946 INFO  - Send SIGINT 952048
+2019-11-24 17:42:35,948 WARN  - SIGINT to 952048 failed - Killing as fallback
+2019-11-24 17:42:35,949 INFO  - Stopping process 951376
+2019-11-24 17:42:36,143 INFO  - Send SIGINT 951376
+2019-11-24 17:42:36,144 WARN  - SIGINT to 951376 failed - Killing as fallback
+2019-11-24 17:42:36,148 INFO  - Finished hcare-api
+2019-11-24 17:42:36,149 DEBUG - Completed. Exit code is 0
+2019-11-24 17:43:32,904 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 17:43:32,927 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 17:43:32,930 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 17:43:32,946 INFO  - Started process 961020
+2019-11-24 17:43:33,025 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-24 18:08:47,095 INFO  - Stopping hcare-api
+2019-11-24 18:08:47,095 DEBUG - ProcessKill 961020
+2019-11-24 18:08:47,479 INFO  - Found child process: 961048 Name: conhost.exe
+2019-11-24 18:08:47,831 INFO  - Stopping process 961048
+2019-11-24 18:08:47,985 INFO  - Send SIGINT 961048
+2019-11-24 18:08:47,987 WARN  - SIGINT to 961048 failed - Killing as fallback
+2019-11-24 18:08:47,988 INFO  - Stopping process 961020
+2019-11-24 18:08:48,295 INFO  - Send SIGINT 961020
+2019-11-24 18:08:48,296 WARN  - SIGINT to 961020 failed - Killing as fallback
+2019-11-24 18:08:48,299 INFO  - Finished hcare-api
+2019-11-24 18:08:48,300 DEBUG - Completed. Exit code is 0
+2019-11-24 18:09:24,730 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 18:09:24,755 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 18:09:24,758 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 18:09:24,773 INFO  - Started process 959764
+2019-11-24 18:09:24,877 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-24 18:10:32,248 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 18:10:32,269 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 18:10:32,271 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 18:10:32,285 INFO  - Started process 960328
+2019-11-24 18:10:32,372 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-24 18:28:05,603 INFO  - Stopping hcare-api
+2019-11-24 18:28:05,605 DEBUG - ProcessKill 960328
+2019-11-24 18:28:06,004 INFO  - Found child process: 963024 Name: conhost.exe
+2019-11-24 18:28:06,386 INFO  - Stopping process 963024
+2019-11-24 18:28:06,745 INFO  - Send SIGINT 963024
+2019-11-24 18:28:06,747 WARN  - SIGINT to 963024 failed - Killing as fallback
+2019-11-24 18:28:06,749 INFO  - Stopping process 960328
+2019-11-24 18:28:06,943 INFO  - Send SIGINT 960328
+2019-11-24 18:28:06,944 WARN  - SIGINT to 960328 failed - Killing as fallback
+2019-11-24 18:28:06,947 INFO  - Finished hcare-api
+2019-11-24 18:28:06,948 DEBUG - Completed. Exit code is 0
+2019-11-24 18:28:28,684 INFO  - Starting ServiceWrapper in the service mode
+2019-11-24 18:28:28,707 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 18:28:28,710 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-24 18:28:28,725 INFO  - Started process 963808
+2019-11-24 18:28:28,802 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-11-26 18:16:19,139 INFO  - Stopping hcare-api
+2019-11-26 18:16:19,140 DEBUG - ProcessKill 963808
+2019-11-26 18:16:19,678 INFO  - Found child process: 963840 Name: conhost.exe
+2019-11-26 18:16:20,224 INFO  - Stopping process 963840
+2019-11-26 18:16:20,496 INFO  - Send SIGINT 963840
+2019-11-26 18:16:20,498 WARN  - SIGINT to 963840 failed - Killing as fallback
+2019-11-26 18:16:20,499 INFO  - Stopping process 963808
+2019-11-26 18:16:20,769 INFO  - Send SIGINT 963808
+2019-11-26 18:16:20,770 WARN  - SIGINT to 963808 failed - Killing as fallback
+2019-11-26 18:16:20,773 INFO  - Finished hcare-api
+2019-11-26 18:16:20,775 DEBUG - Completed. Exit code is 0
+2019-11-26 18:16:45,211 INFO  - Starting ServiceWrapper in the service mode
+2019-11-26 18:16:45,230 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-26 18:16:45,233 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-11-26 18:16:45,247 INFO  - Started process 1395200
+2019-11-26 18:16:45,404 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-12-03 20:59:05,995 INFO  - Stopping hcare-api
+2019-12-03 20:59:05,996 DEBUG - ProcessKill 1395200
+2019-12-03 20:59:07,529 INFO  - Found child process: 1395224 Name: conhost.exe
+2019-12-03 20:59:08,823 INFO  - Stopping process 1395224
+2019-12-03 20:59:09,483 INFO  - Send SIGINT 1395224
+2019-12-03 20:59:09,485 WARN  - SIGINT to 1395224 failed - Killing as fallback
+2019-12-03 20:59:09,488 INFO  - Stopping process 1395200
+2019-12-03 20:59:10,106 INFO  - Send SIGINT 1395200
+2019-12-03 20:59:10,106 WARN  - SIGINT to 1395200 failed - Killing as fallback
+2019-12-03 20:59:10,110 INFO  - Finished hcare-api
+2019-12-03 20:59:10,112 DEBUG - Completed. Exit code is 0
+2019-12-03 20:59:11,176 INFO  - Starting ServiceWrapper in the service mode
+2019-12-03 20:59:11,204 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-03 20:59:11,208 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-03 20:59:11,228 INFO  - Started process 2907860
+2019-12-03 20:59:11,649 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-12-12 21:04:24,564 INFO  - Stopping hcare-api
+2019-12-12 21:04:24,565 DEBUG - ProcessKill 2907860
+2019-12-12 21:04:27,742 INFO  - Found child process: 2908924 Name: conhost.exe
+2019-12-12 21:04:30,286 INFO  - Stopping process 2908924
+2019-12-12 21:04:31,793 INFO  - Send SIGINT 2908924
+2019-12-12 21:04:31,795 WARN  - SIGINT to 2908924 failed - Killing as fallback
+2019-12-12 21:04:31,797 INFO  - Stopping process 2907860
+2019-12-12 21:04:33,870 INFO  - Send SIGINT 2907860
+2019-12-12 21:04:33,870 WARN  - SIGINT to 2907860 failed - Killing as fallback
+2019-12-12 21:04:33,873 INFO  - Finished hcare-api
+2019-12-12 21:04:33,874 DEBUG - Completed. Exit code is 0
+2019-12-12 21:04:35,209 INFO  - Starting ServiceWrapper in the service mode
+2019-12-12 21:04:35,243 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-12 21:04:35,247 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-12 21:04:35,269 INFO  - Started process 4676648
+2019-12-12 21:04:36,089 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-12-15 14:39:44,063 INFO  - Starting ServiceWrapper in the service mode
+2019-12-15 14:39:44,141 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-15 14:39:44,157 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-15 14:39:44,219 INFO  - Started process 1700
+2019-12-15 14:39:44,235 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-12-16 11:54:55,619 INFO  - Starting ServiceWrapper in the service mode
+2019-12-16 11:54:56,150 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-16 11:54:56,167 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-16 11:54:56,310 INFO  - Started process 1564
+2019-12-16 11:54:56,492 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2019-12-30 10:38:27,136 INFO  - Starting ServiceWrapper in the service mode
+2019-12-30 10:38:27,182 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-30 10:38:27,198 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2019-12-30 10:38:27,229 INFO  - Started process 1636
+2019-12-30 10:38:27,245 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2020-01-09 10:34:41,153 INFO  - Stopping hcare-api
+2020-01-09 10:34:41,155 DEBUG - ProcessKill 1636
+2020-01-09 10:34:41,946 INFO  - Found child process: 1648 Name: conhost.exe
+2020-01-09 10:34:42,801 INFO  - Stopping process 1648
+2020-01-09 10:34:43,142 INFO  - Send SIGINT 1648
+2020-01-09 10:34:43,144 WARN  - SIGINT to 1648 failed - Killing as fallback
+2020-01-09 10:34:43,147 INFO  - Stopping process 1636
+2020-01-09 10:34:43,461 INFO  - Send SIGINT 1636
+2020-01-09 10:34:43,462 WARN  - SIGINT to 1636 failed - Killing as fallback
+2020-01-09 10:34:43,466 INFO  - Finished hcare-api
+2020-01-09 10:34:43,469 DEBUG - Completed. Exit code is 0
+2020-01-09 10:34:44,171 INFO  - Starting ServiceWrapper in the service mode
+2020-01-09 10:34:44,195 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-09 10:34:44,199 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-09 10:34:44,222 INFO  - Started process 1680668
+2020-01-09 10:34:44,399 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2020-01-09 12:43:34,269 INFO  - Stopping hcare-api
+2020-01-09 12:43:34,269 DEBUG - ProcessKill 1680668
+2020-01-09 12:43:35,130 INFO  - Found child process: 1680468 Name: conhost.exe
+2020-01-09 12:43:35,905 INFO  - Stopping process 1680468
+2020-01-09 12:43:36,263 INFO  - Send SIGINT 1680468
+2020-01-09 12:43:36,265 WARN  - SIGINT to 1680468 failed - Killing as fallback
+2020-01-09 12:43:36,267 INFO  - Stopping process 1680668
+2020-01-09 12:43:36,553 INFO  - Send SIGINT 1680668
+2020-01-09 12:43:36,553 WARN  - SIGINT to 1680668 failed - Killing as fallback
+2020-01-09 12:43:36,556 INFO  - Finished hcare-api
+2020-01-09 12:43:36,558 DEBUG - Completed. Exit code is 0
+2020-01-09 12:43:37,404 INFO  - Starting ServiceWrapper in the service mode
+2020-01-09 12:43:37,426 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-09 12:43:37,429 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-09 12:43:37,446 INFO  - Started process 1699712
+2020-01-09 12:43:37,871 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2020-01-09 13:32:51,670 INFO  - Stopping hcare-api
+2020-01-09 13:32:51,671 DEBUG - ProcessKill 1699712
+2020-01-09 13:32:52,456 INFO  - Found child process: 1699724 Name: conhost.exe
+2020-01-09 13:32:53,255 INFO  - Stopping process 1699724
+2020-01-09 13:32:53,735 INFO  - Send SIGINT 1699724
+2020-01-09 13:32:53,737 WARN  - SIGINT to 1699724 failed - Killing as fallback
+2020-01-09 13:32:53,739 INFO  - Stopping process 1699712
+2020-01-09 13:32:54,263 INFO  - Send SIGINT 1699712
+2020-01-09 13:32:54,263 WARN  - SIGINT to 1699712 failed - Killing as fallback
+2020-01-09 13:32:54,267 INFO  - Finished hcare-api
+2020-01-09 13:32:54,268 DEBUG - Completed. Exit code is 0
+2020-01-09 14:00:27,366 INFO  - Starting ServiceWrapper in the service mode
+2020-01-09 14:00:30,412 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-09 14:00:30,417 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-09 14:00:30,446 INFO  - Started process 1709000
+2020-01-09 14:00:30,919 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2020-01-14 11:30:51,229 INFO  - Stopping hcare-api
+2020-01-14 11:30:51,229 DEBUG - ProcessKill 1709000
+2020-01-14 11:30:52,392 INFO  - Found child process: 1709016 Name: conhost.exe
+2020-01-14 11:30:53,572 INFO  - Stopping process 1709016
+2020-01-14 11:30:54,038 INFO  - Send SIGINT 1709016
+2020-01-14 11:30:54,041 WARN  - SIGINT to 1709016 failed - Killing as fallback
+2020-01-14 11:30:54,044 INFO  - Stopping process 1709000
+2020-01-14 11:30:54,518 INFO  - Send SIGINT 1709000
+2020-01-14 11:30:54,518 WARN  - SIGINT to 1709000 failed - Killing as fallback
+2020-01-14 11:30:54,522 INFO  - Finished hcare-api
+2020-01-14 11:30:54,524 DEBUG - Completed. Exit code is 0
+2020-01-14 11:30:55,812 INFO  - Starting ServiceWrapper in the service mode
+2020-01-14 11:30:55,835 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-14 11:30:55,838 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-14 11:30:55,859 INFO  - Started process 2236116
+2020-01-14 11:30:56,541 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2020-01-19 21:13:20,694 INFO  - Stopping hcare-api
+2020-01-19 21:13:20,759 DEBUG - ProcessKill 2236116
+2020-01-19 21:13:21,344 WARN  - Failed to locate children of the process with PID=2236116. Child processes won't be terminated
+System.Management.ManagementException: Invalid query 
+   at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.ManagementObjectCollection.ManagementObjectEnumerator.MoveNext()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2020-01-19 21:13:21,359 INFO  - Stopping process 2236116
+2020-01-19 21:13:22,672 INFO  - Process 2236116 is already stopped
+System.ArgumentException: Process with an Id of 2236116 is not running.
+   at System.Diagnostics.Process.GetProcessById(Int32 processId, String machineName)
+   at winsw.Util.ProcessHelper.StopProcess(Int32 pid, TimeSpan stopTimeout)
+2020-01-19 21:13:22,672 INFO  - Finished hcare-api
+2020-01-19 21:13:22,687 DEBUG - Completed. Exit code is 0
+2020-01-19 21:14:17,869 INFO  - Starting ServiceWrapper in the service mode
+2020-01-19 21:14:18,026 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-19 21:14:18,026 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-19 21:14:18,088 INFO  - Started process 1700
+2020-01-19 21:14:18,088 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2020-01-29 08:28:39,291 INFO  - Stopping hcare-api
+2020-01-29 08:28:39,298 DEBUG - ProcessKill 1700
+2020-01-29 08:28:40,054 INFO  - Found child process: 1712 Name: conhost.exe
+2020-01-29 08:28:40,769 INFO  - Stopping process 1712
+2020-01-29 08:28:40,958 INFO  - Send SIGINT 1712
+2020-01-29 08:28:40,965 WARN  - SIGINT to 1712 failed - Killing as fallback
+2020-01-29 08:28:40,973 INFO  - Stopping process 1700
+2020-01-29 08:28:41,191 INFO  - Send SIGINT 1700
+2020-01-29 08:28:41,191 WARN  - SIGINT to 1700 failed - Killing as fallback
+2020-01-29 08:28:41,196 INFO  - Finished hcare-api
+2020-01-29 08:28:41,211 DEBUG - Completed. Exit code is 0
+2020-01-29 08:29:05,472 INFO  - Starting ServiceWrapper in the service mode
+2020-01-29 08:29:05,494 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-29 08:29:05,498 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-01-29 08:29:05,515 INFO  - Started process 1168896
+2020-01-29 08:29:05,783 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2020-02-24 10:47:49,898 ERROR - Failed to log event in Windows Event Log. Reason: 
+System.ComponentModel.Win32Exception (0x80004005): The interface is unknown
+   at System.Diagnostics.EventLogInternal.InternalWriteEvent(UInt32 eventID, UInt16 category, EventLogEntryType type, String[] strings, Byte[] rawData, String currentMachineName)
+   at System.Diagnostics.EventLogInternal.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type)
+   at winsw.WrapperService.LogEvent(String message, EventLogEntryType type)
+2020-02-24 10:49:40,642 INFO  - Starting ServiceWrapper in the service mode
+2020-02-24 10:49:40,744 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-02-24 10:49:40,752 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-02-24 10:49:40,800 INFO  - Started process 1704
+2020-02-24 10:49:40,937 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
+2020-02-29 08:53:28,037 INFO  - Starting ServiceWrapper in the service mode
+2020-02-29 08:53:28,785 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-02-29 08:53:28,785 INFO  - Starting java -jar hcare-api.jar --APPLICATION_PORT=7020 --DATABASE_HOST=10.1.0.21 --DATABASE_PORT=1433 --DATABASE_NAME=HCare --DATABASE_USER=sa --DATABASE_PASSWORD=Kombos2019 --DATABASE_SCHEMA=dbo --CRON_SCEDULLER_ENABLED=true --CHAT_API=http://localhost:8000/hcare-chat
+2020-02-29 08:53:28,955 INFO  - Started process 1660
+2020-02-29 08:53:29,033 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.DefaultLogAppender
